@@ -3,7 +3,7 @@ import eventful, json
 loop_counter = 0
 all_events = []
 
-api = eventful.API('95HzcLgHb9mKLh6P')  
+api = eventful.API('API Key Required')  
 
 while loop_counter < 26:  
     loop_counter = loop_counter + 1 ### 
