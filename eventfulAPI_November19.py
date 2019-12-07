@@ -1,6 +1,6 @@
 import eventful
 
-api = eventful.API('95HzcLgHb9mKLh6P')
+api = eventful.API('API Key Required')
 
 # If you need to log in:
 # api.login('username', 'password')
