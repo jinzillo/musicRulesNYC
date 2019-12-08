@@ -1,0 +1,3329 @@
+{
+  "resultsPage": {
+    "status": "ok",
+    "results": {
+      "event": [
+        {
+          "id": 39192129,
+          "displayName": "J.S. Ondara at Tribeca 360 (October 17, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39192129-js-ondara-at-tribeca-360?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000623,
+          "start": {
+            "date": "2019-10-17",
+            "datetime": "2019-10-17T20:00:00-0400",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 74193619,
+              "displayName": "J.S. Ondara",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 9243014,
+                "displayName": "J.S. Ondara",
+                "uri": "http://www.songkick.com/artists/9243014-js-ondara?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "46b8e29c-0ea5-45a9-a068-4313097c86ff",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:46b8e29c-0ea5-45a9-a068-4313097c86ff.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4333835,
+            "displayName": "Tribeca 360",
+            "uri": "http://www.songkick.com/venues/4333835-tribeca-360?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72179,
+            "lng": -74.00945
+          },
+          "location": {
+            "city": "New York, NY, US",
+            "lat": 40.72179,
+            "lng": -74.00945
+          }
+        },
+        {
+          "id": 37387934,
+          "displayName": "Taking Back Sunday at Terminal 5 (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/37387934-taking-back-sunday-at-terminal-5?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.098028,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 71060539,
+              "displayName": "Taking Back Sunday",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 117092,
+                "displayName": "Taking Back Sunday",
+                "uri": "http://www.songkick.com/artists/117092-taking-back-sunday?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "350bce49-c21b-4137-b50a-0766ded07e4d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:350bce49-c21b-4137-b50a-0766ded07e4d.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3199,
+            "displayName": "Terminal 5",
+            "uri": "http://www.songkick.com/venues/3199-terminal-5?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.77066,
+            "lng": -73.99427
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.77066,
+            "lng": -73.99427
+          }
+        },
+        {
+          "id": 38107934,
+          "displayName": "Joe Bonamassa at Beacon Theatre (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38107934-joe-bonamassa-at-beacon-theatre?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.041552,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 72331094,
+              "displayName": "Joe Bonamassa",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 414198,
+                "displayName": "Joe Bonamassa",
+                "uri": "http://www.songkick.com/artists/414198-joe-bonamassa?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "984f8239-8fe1-4683-9c54-10ffb14439e9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:984f8239-8fe1-4683-9c54-10ffb14439e9.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1025,
+            "displayName": "Beacon Theatre",
+            "uri": "http://www.songkick.com/venues/1025-beacon-theatre?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.77604,
+            "lng": -73.98204
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.77604,
+            "lng": -73.98204
+          }
+        },
+        {
+          "id": 38262984,
+          "displayName": "Billy Joel at Madison Square Garden (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38262984-billy-joel-at-madison-square-garden?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.260722,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 72605939,
+              "displayName": "Billy Joel",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 296988,
+                "displayName": "Billy Joel",
+                "uri": "http://www.songkick.com/artists/296988-billy-joel?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:64b94289-9474-4d43-8c93-918ccc1920d1.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 477,
+            "displayName": "Madison Square Garden",
+            "uri": "http://www.songkick.com/venues/477-madison-square-garden?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.74971,
+            "lng": -73.99156
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.74971,
+            "lng": -73.99156
+          }
+        },
+        {
+          "id": 38334859,
+          "displayName": "Ron with Leeds at Digitally Imported Radio - Epic Trance Channel (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38334859-ron-with-leeds-at-digitally-imported-radio-epic-trance-channel?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000002,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 72726719,
+              "displayName": "Ron with Leeds",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 9992314,
+                "displayName": "Ron with Leeds",
+                "uri": "http://www.songkick.com/artists/9992314-ron-with-leeds?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4278989,
+            "displayName": "Digitally Imported Radio - Epic Trance Channel",
+            "uri": "http://www.songkick.com/venues/4278989-digitally-imported-radio-epic-trance-channel?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": null,
+            "lng": null
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.7128,
+            "lng": -74.006
+          }
+        },
+        {
+          "id": 38379064,
+          "displayName": "Blue October with Longwave at Webster Hall (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38379064-blue-october-at-webster-hall?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.055722,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 72802789,
+              "displayName": "Blue October",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 500273,
+                "displayName": "Blue October",
+                "uri": "http://www.songkick.com/artists/500273-blue-october?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "96fafb0a-2f1d-4b15-b2a0-9e0e660e7ecf",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:96fafb0a-2f1d-4b15-b2a0-9e0e660e7ecf.json"
+                  },
+                  {
+                    "mbid": "d6a3eeec-cde0-4c10-89b2-93e0bd5f34e6",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d6a3eeec-cde0-4c10-89b2-93e0bd5f34e6.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73574099,
+              "displayName": "Longwave",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 142709,
+                "displayName": "Longwave",
+                "uri": "http://www.songkick.com/artists/142709-longwave?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "b476264b-dcdc-4cbf-bd40-9eddaf5a6942",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b476264b-dcdc-4cbf-bd40-9eddaf5a6942.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 924,
+            "displayName": "Webster Hall",
+            "uri": "http://www.songkick.com/venues/924-webster-hall?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.73177,
+            "lng": -73.98911
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.73177,
+            "lng": -73.98911
+          }
+        },
+        {
+          "id": 38381004,
+          "displayName": "Last Dinosaurs and Born Ruffians at Music Hall of Williamsburg (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38381004-last-dinosaurs-at-music-hall-of-williamsburg?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.024365,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 72805869,
+              "displayName": "Last Dinosaurs",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 1815039,
+                "displayName": "Last Dinosaurs",
+                "uri": "http://www.songkick.com/artists/1815039-last-dinosaurs?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "546b225b-162d-4b81-b649-032616736db7",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:546b225b-162d-4b81-b649-032616736db7.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74250895,
+              "displayName": "Born Ruffians",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 22233,
+                "displayName": "Born Ruffians",
+                "uri": "http://www.songkick.com/artists/22233-born-ruffians?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "87e58b4e-465c-4d8b-bfee-9c49ca8b7358",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:87e58b4e-465c-4d8b-bfee-9c49ca8b7358.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 16246,
+            "displayName": "Music Hall of Williamsburg",
+            "uri": "http://www.songkick.com/venues/16246-music-hall-of-williamsburg?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.71928,
+            "lng": -73.96171
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.71928,
+            "lng": -73.96171
+          }
+        },
+        {
+          "id": 38397054,
+          "displayName": "Hilltop Hoods and Adrian Eagle at Brooklyn Bowl (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38397054-hilltop-hoods-at-brooklyn-bowl?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.035791,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T23:59:00-0500",
+            "time": "23:59:00"
+          },
+          "performance": [
+            {
+              "id": 72833904,
+              "displayName": "Hilltop Hoods",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 501001,
+                "displayName": "Hilltop Hoods",
+                "uri": "http://www.songkick.com/artists/501001-hilltop-hoods?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:16e1fb95-6d1c-45a3-aad8-d3bcd7e06aac.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 72833909,
+              "displayName": "Adrian Eagle",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9343859,
+                "displayName": "Adrian Eagle",
+                "uri": "http://www.songkick.com/artists/9343859-adrian-eagle?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "25e90797-f2e7-4991-b61b-25d98961b913",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:25e90797-f2e7-4991-b61b-25d98961b913.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 493846,
+            "displayName": "Brooklyn Bowl",
+            "uri": "http://www.songkick.com/venues/493846-brooklyn-bowl?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72188,
+            "lng": -73.95739
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.72188,
+            "lng": -73.95739
+          }
+        },
+        {
+          "id": 38447429,
+          "displayName": "Tom Rush at Rubin Museum Of Art (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38447429-tom-rush-at-rubin-museum-of-art?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.002171,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T18:00:00-0500",
+            "time": "18:00:00"
+          },
+          "performance": [
+            {
+              "id": 72919019,
+              "displayName": "Tom Rush",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 544338,
+                "displayName": "Tom Rush",
+                "uri": "http://www.songkick.com/artists/544338-tom-rush?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "7a64f2ab-0605-466b-92ce-ddeb7bef5d42",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7a64f2ab-0605-466b-92ce-ddeb7bef5d42.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 72308,
+            "displayName": "Rubin Museum Of Art",
+            "uri": "http://www.songkick.com/venues/72308-rubin-museum-of-art?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.74002,
+            "lng": -73.9978
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.74002,
+            "lng": -73.9978
+          }
+        },
+        {
+          "id": 38452924,
+          "displayName": "Kikagaku Moyo with Minami Deutsch at Warsaw (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38452924-kikagaku-moyo-at-warsaw?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.004383,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 72927749,
+              "displayName": "Kikagaku Moyo",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 6750884,
+                "displayName": "Kikagaku Moyo",
+                "uri": "http://www.songkick.com/artists/6750884-kikagaku-moyo?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "3a605eba-b6a1-4298-855d-b3033df0bf8b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3a605eba-b6a1-4298-855d-b3033df0bf8b.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73017049,
+              "displayName": "Minami Deutsch",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 8304893,
+                "displayName": "Minami Deutsch",
+                "uri": "http://www.songkick.com/artists/8304893-minami-deutsch?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "a51ae558-d194-400c-a92f-66b471f92fb7",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a51ae558-d194-400c-a92f-66b471f92fb7.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 802,
+            "displayName": "Warsaw",
+            "uri": "http://www.songkick.com/venues/802-warsaw?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72254,
+            "lng": -73.9484
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.72254,
+            "lng": -73.9484
+          }
+        },
+        {
+          "id": 38576149,
+          "displayName": "mxmtoon with Chloe Lilac at Gramercy Theatre (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38576149-mxmtoon-at-gramercy-theatre?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.007936,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73141774,
+              "displayName": "mxmtoon",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 9541014,
+                "displayName": "mxmtoon",
+                "uri": "http://www.songkick.com/artists/9541014-mxmtoon?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "ccbced49-2689-46f8-9101-1c265d6f7b8f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:ccbced49-2689-46f8-9101-1c265d6f7b8f.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73862523,
+              "displayName": "Chloe Lilac",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9103564,
+                "displayName": "Chloe Lilac",
+                "uri": "http://www.songkick.com/artists/9103564-chloe-lilac?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 502461,
+            "displayName": "Gramercy Theatre",
+            "uri": "http://www.songkick.com/venues/502461-gramercy-theatre?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.73977,
+            "lng": -73.98493
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.73977,
+            "lng": -73.98493
+          }
+        },
+        {
+          "id": 38618094,
+          "displayName": "David Grisman at Iridium (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38618094-david-grisman-at-iridium?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.004248,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:30:00-0500",
+            "time": "20:30:00"
+          },
+          "performance": [
+            {
+              "id": 73209789,
+              "displayName": "David Grisman",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 141530,
+                "displayName": "David Grisman",
+                "uri": "http://www.songkick.com/artists/141530-david-grisman?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "402e4f4f-33aa-4b2b-9fdb-3cb4eb38f729",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:402e4f4f-33aa-4b2b-9fdb-3cb4eb38f729.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 725656,
+            "displayName": "Iridium",
+            "uri": "http://www.songkick.com/venues/725656-iridium?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.76186,
+            "lng": -73.98333
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.76186,
+            "lng": -73.98333
+          }
+        },
+        {
+          "id": 38807664,
+          "displayName": "Chucho Valdes and Chick Corea at Rose Theater, Jazz at Lincoln Center (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38807664-chucho-valdes-at-rose-theater-jazz-at-lincoln-center?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.016643,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 73537044,
+              "displayName": "Chucho Valdes",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 406653,
+                "displayName": "Chucho Valdes",
+                "uri": "http://www.songkick.com/artists/406653-chucho-valdes?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "6999d571-cc1b-4426-8071-b3b266a0a5d1",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6999d571-cc1b-4426-8071-b3b266a0a5d1.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73537049,
+              "displayName": "Chick Corea",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 206143,
+                "displayName": "Chick Corea",
+                "uri": "http://www.songkick.com/artists/206143-chick-corea?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "8446fcca-109e-4c6d-a2ff-5a269b32b4c2",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8446fcca-109e-4c6d-a2ff-5a269b32b4c2.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 9440,
+            "displayName": "Rose Theater, Jazz at Lincoln Center",
+            "uri": "http://www.songkick.com/venues/9440-rose-theater-jazz-at-lincoln-center?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.7689,
+            "lng": -73.982
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.7689,
+            "lng": -73.982
+          }
+        },
+        {
+          "id": 38883438,
+          "displayName": "The Coronas with Kris Gruen at Mercury Lounge (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38883438-coronas-at-mercury-lounge?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.005469,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 73669288,
+              "displayName": "The Coronas",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 11215,
+                "displayName": "The Coronas",
+                "uri": "http://www.songkick.com/artists/11215-coronas?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "59c3fe2b-468e-47cb-8173-3e3e81f8a75f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:59c3fe2b-468e-47cb-8173-3e3e81f8a75f.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74255363,
+              "displayName": "Kris Gruen",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 1296364,
+                "displayName": "Kris Gruen",
+                "uri": "http://www.songkick.com/artists/1296364-kris-gruen?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "caa4d943-922c-4c68-bb78-eea77c6bd1d9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:caa4d943-922c-4c68-bb78-eea77c6bd1d9.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 364,
+            "displayName": "Mercury Lounge",
+            "uri": "http://www.songkick.com/venues/364-mercury-lounge?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72216,
+            "lng": -73.98671
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72216,
+            "lng": -73.98671
+          }
+        },
+        {
+          "id": 38947414,
+          "displayName": "Freestyle Love Supreme at Booth Theatre (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38947414-freestyle-love-supreme-at-booth-theatre?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000071,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73781234,
+              "displayName": "Freestyle Love Supreme",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 987708,
+                "displayName": "Freestyle Love Supreme",
+                "uri": "http://www.songkick.com/artists/987708-freestyle-love-supreme?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 2666138,
+            "displayName": "Booth Theatre",
+            "uri": "http://www.songkick.com/venues/2666138-booth-theatre?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.76026,
+            "lng": -73.99329
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.76026,
+            "lng": -73.99329
+          }
+        },
+        {
+          "id": 38948144,
+          "displayName": "Kem at NYCB Theatre at Westbury (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38948144-kem-at-nycb-theatre-at-westbury?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.026714,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73782004,
+              "displayName": "Kem",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 151653,
+                "displayName": "Kem",
+                "uri": "http://www.songkick.com/artists/151653-kem?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "3615bc8c-7026-44c0-b3e5-61ece996341c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3615bc8c-7026-44c0-b3e5-61ece996341c.json"
+                  },
+                  {
+                    "mbid": "0609c172-8605-490c-9494-e1019803e817",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:0609c172-8605-490c-9494-e1019803e817.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1092586,
+            "displayName": "NYCB Theatre at Westbury",
+            "uri": "http://www.songkick.com/venues/1092586-nycb-theatre-at-westbury?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.7743,
+            "lng": -73.5593
+          },
+          "location": {
+            "city": "Westbury, NY, US",
+            "lat": 40.7743,
+            "lng": -73.5593
+          }
+        },
+        {
+          "id": 38949325,
+          "displayName": "Scoville Unit with Earnhardt and BLUEOX at Berlin (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38949325-scoville-unit-at-berlin?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000004,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73784023,
+              "displayName": "Scoville Unit",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 1485111,
+                "displayName": "Scoville Unit",
+                "uri": "http://www.songkick.com/artists/1485111-scoville-unit?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "f294423d-9b50-4bc3-bd40-962b7e64df07",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:f294423d-9b50-4bc3-bd40-962b7e64df07.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74225786,
+              "displayName": "Earnhardt",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 8463713,
+                "displayName": "Earnhardt",
+                "uri": "http://www.songkick.com/artists/8463713-earnhardt?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74225787,
+              "displayName": "BLUEOX",
+              "billing": "support",
+              "billingIndex": 3,
+              "artist": {
+                "id": 10059845,
+                "displayName": "BLUEOX",
+                "uri": "http://www.songkick.com/artists/10059845-blueox?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3045529,
+            "displayName": "Berlin",
+            "uri": "http://www.songkick.com/venues/3045529-berlin?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72301,
+            "lng": -73.98606
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72301,
+            "lng": -73.98606
+          }
+        },
+        {
+          "id": 38949623,
+          "displayName": "Audrey Assad at All Angels Episcopal Church (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38949623-audrey-assad-at-all-angels-episcopal-church?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.00727,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 73784566,
+              "displayName": "Audrey Assad",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 3685706,
+                "displayName": "Audrey Assad",
+                "uri": "http://www.songkick.com/artists/3685706-audrey-assad?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "280e4d8f-4ed1-43ae-8927-cd040ad58655",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:280e4d8f-4ed1-43ae-8927-cd040ad58655.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1158001,
+            "displayName": "All Angels Episcopal Church",
+            "uri": "http://www.songkick.com/venues/1158001-all-angels-episcopal-church?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.78496,
+            "lng": -73.97998
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.78496,
+            "lng": -73.97998
+          }
+        },
+        {
+          "id": 38949673,
+          "displayName": "Mandolin Orange with Sunny War at Brooklyn Steel (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38949673-mandolin-orange-at-brooklyn-steel?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.011751,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 73784674,
+              "displayName": "Mandolin Orange",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 2589866,
+                "displayName": "Mandolin Orange",
+                "uri": "http://www.songkick.com/artists/2589866-mandolin-orange?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "4484644c-66be-4e2b-beaf-c5780e9c8e50",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4484644c-66be-4e2b-beaf-c5780e9c8e50.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73784675,
+              "displayName": "Sunny War",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 2506681,
+                "displayName": "Sunny War",
+                "uri": "http://www.songkick.com/artists/2506681-sunny-war?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "db8451ab-9f03-4668-87c7-1dbb66aa1e6b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:db8451ab-9f03-4668-87c7-1dbb66aa1e6b.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3457684,
+            "displayName": "Brooklyn Steel",
+            "uri": "http://www.songkick.com/venues/3457684-brooklyn-steel?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.71936,
+            "lng": -73.93878
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.71936,
+            "lng": -73.93878
+          }
+        },
+        {
+          "id": 38950722,
+          "displayName": "Billy Strings at Brooklyn Bowl (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38950722-billy-strings-at-brooklyn-bowl?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000879,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73786318,
+              "displayName": "Billy Strings",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 6565553,
+                "displayName": "Billy Strings",
+                "uri": "http://www.songkick.com/artists/6565553-billy-strings?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "640db492-34c4-47df-be14-96e2cd4b9fe4",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:640db492-34c4-47df-be14-96e2cd4b9fe4.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 493846,
+            "displayName": "Brooklyn Bowl",
+            "uri": "http://www.songkick.com/venues/493846-brooklyn-bowl?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72188,
+            "lng": -73.95739
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.72188,
+            "lng": -73.95739
+          }
+        },
+        {
+          "id": 38952387,
+          "displayName": "Mortician with Funerus, Sacrificial Blood, and SICK BAY at Saint Vitus (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38952387-mortician-at-saint-vitus?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000981,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 73789072,
+              "displayName": "Mortician",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 100509,
+                "displayName": "Mortician",
+                "uri": "http://www.songkick.com/artists/100509-mortician?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "e79731e0-4af1-4104-825e-e070b9592bf0",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:e79731e0-4af1-4104-825e-e070b9592bf0.json"
+                  },
+                  {
+                    "mbid": "a3b3b71b-4b6e-4a8f-ae74-5bc17b87ef60",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:a3b3b71b-4b6e-4a8f-ae74-5bc17b87ef60.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73789073,
+              "displayName": "Funerus",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 487611,
+                "displayName": "Funerus",
+                "uri": "http://www.songkick.com/artists/487611-funerus?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "386991ff-430c-4aca-af4d-284760c68f0e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:386991ff-430c-4aca-af4d-284760c68f0e.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73789074,
+              "displayName": "Sacrificial Blood",
+              "billing": "support",
+              "billingIndex": 3,
+              "artist": {
+                "id": 631075,
+                "displayName": "Sacrificial Blood",
+                "uri": "http://www.songkick.com/artists/631075-sacrificial-blood?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "c5d2441a-a659-4e82-a9f1-fd65cffdaa8f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c5d2441a-a659-4e82-a9f1-fd65cffdaa8f.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73789075,
+              "displayName": "SICK BAY",
+              "billing": "support",
+              "billingIndex": 4,
+              "artist": {
+                "id": 1330210,
+                "displayName": "SICK BAY",
+                "uri": "http://www.songkick.com/artists/1330210-sick-bay?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "79052d1b-3275-47c5-bde5-2bc36de2d263",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:79052d1b-3275-47c5-bde5-2bc36de2d263.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1364966,
+            "displayName": "Saint Vitus",
+            "uri": "http://www.songkick.com/venues/1364966-saint-vitus?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.73677,
+            "lng": -73.955
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.73677,
+            "lng": -73.955
+          }
+        },
+        {
+          "id": 38954576,
+          "displayName": "Pedrito Martinez with Jhair Sala, Isaac Delgado En Vivo, Sebastian Natal, and 1 more… at 92nd Street Y (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38954576-pedrito-martinez-at-92nd-street-y?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000496,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 73792632,
+              "displayName": "Pedrito Martinez",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 633612,
+                "displayName": "Pedrito Martinez",
+                "uri": "http://www.songkick.com/artists/633612-pedrito-martinez?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "5c976a22-2939-4c88-b593-f22080e7f50b",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:5c976a22-2939-4c88-b593-f22080e7f50b.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73996421,
+              "displayName": "Jhair Sala",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9292829,
+                "displayName": "Jhair Sala",
+                "uri": "http://www.songkick.com/artists/9292829-jhair-sala?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 73996422,
+              "displayName": "Isaac Delgado En Vivo",
+              "billing": "support",
+              "billingIndex": 3,
+              "artist": {
+                "id": 4175166,
+                "displayName": "Isaac Delgado En Vivo",
+                "uri": "http://www.songkick.com/artists/4175166-isaac-delgado-en-vivo?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 73996423,
+              "displayName": "Sebastian Natal",
+              "billing": "support",
+              "billingIndex": 4,
+              "artist": {
+                "id": 9292814,
+                "displayName": "Sebastian Natal",
+                "uri": "http://www.songkick.com/artists/9292814-sebastian-natal?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 73996424,
+              "displayName": "Xito Lovell",
+              "billing": "support",
+              "billingIndex": 5,
+              "artist": {
+                "id": 10072076,
+                "displayName": "Xito Lovell",
+                "uri": "http://www.songkick.com/artists/10072076-xito-lovell?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 558491,
+            "displayName": "92nd Street Y",
+            "uri": "http://www.songkick.com/venues/558491-92nd-street-y?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.78275,
+            "lng": -73.95291
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.78275,
+            "lng": -73.95291
+          }
+        },
+        {
+          "id": 38974840,
+          "displayName": "Loud Luxury with Black Caviar at Great Hall, Avant Gardner (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38974840-loud-luxury-at-great-hall-avant-gardner?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.023406,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T21:00:00-0500",
+            "time": "21:00:00"
+          },
+          "performance": [
+            {
+              "id": 73827044,
+              "displayName": "Loud Luxury",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 5862829,
+                "displayName": "Loud Luxury",
+                "uri": "http://www.songkick.com/artists/5862829-loud-luxury?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "4c445344-9df2-407e-9bf3-8a5c0b86777e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4c445344-9df2-407e-9bf3-8a5c0b86777e.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74034966,
+              "displayName": "Black Caviar",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 7257274,
+                "displayName": "Black Caviar",
+                "uri": "http://www.songkick.com/artists/7257274-black-caviar?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "1d58c531-b83d-4ec1-98cd-716ab0cebde2",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1d58c531-b83d-4ec1-98cd-716ab0cebde2.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3721144,
+            "displayName": "Great Hall, Avant Gardner",
+            "uri": "http://www.songkick.com/venues/3721144-great-hall-avant-gardner?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.71068,
+            "lng": -73.92635
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.71068,
+            "lng": -73.92635
+          }
+        },
+        {
+          "id": 38985547,
+          "displayName": "Kate Davis with Miss Grit and Emily Jackson at Zone One, Elsewhere (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/38985547-kate-davis-at-zone-one-elsewhere?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.00121,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T18:00:00-0500",
+            "time": "18:00:00"
+          },
+          "performance": [
+            {
+              "id": 73845523,
+              "displayName": "Kate Davis",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 2031201,
+                "displayName": "Kate Davis",
+                "uri": "http://www.songkick.com/artists/2031201-kate-davis?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "756a8bb0-f9d6-44af-9760-63dd11613c99",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:756a8bb0-f9d6-44af-9760-63dd11613c99.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74295664,
+              "displayName": "Miss Grit",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9753019,
+                "displayName": "Miss Grit",
+                "uri": "http://www.songkick.com/artists/9753019-miss-grit?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74307911,
+              "displayName": "Emily Jackson",
+              "billing": "support",
+              "billingIndex": 3,
+              "artist": {
+                "id": 5391113,
+                "displayName": "Emily Jackson",
+                "uri": "http://www.songkick.com/artists/5391113-emily-jackson?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3660404,
+            "displayName": "Zone One, Elsewhere",
+            "uri": "http://www.songkick.com/venues/3660404-zone-one-elsewhere?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.70948,
+            "lng": -73.92319
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.70948,
+            "lng": -73.92319
+          }
+        },
+        {
+          "id": 39015124,
+          "displayName": "Sammy Rae with Melt The Band (NYC) at (le) Poisson Rouge (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39015124-sammy-rae-at-poisson-rouge?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000167,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73895976,
+              "displayName": "Sammy Rae",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 3482761,
+                "displayName": "Sammy Rae",
+                "uri": "http://www.songkick.com/artists/3482761-sammy-rae?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74197320,
+              "displayName": "Melt The Band (NYC)",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9233199,
+                "displayName": "Melt The Band (NYC)",
+                "uri": "http://www.songkick.com/artists/9233199-melt-the-band-nyc?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3801984,
+            "displayName": "(le) Poisson Rouge",
+            "uri": "http://www.songkick.com/venues/3801984-poisson-rouge?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72848,
+            "lng": -74.00005
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72848,
+            "lng": -74.00005
+          }
+        },
+        {
+          "id": 39015303,
+          "displayName": "O.A.R. at Paramount Theater (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39015303-oar-at-paramount-theater?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.061704,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73896229,
+              "displayName": "O.A.R.",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 168886,
+                "displayName": "O.A.R.",
+                "uri": "http://www.songkick.com/artists/168886-oar?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "16aae9fa-d8f7-4e2c-a907-44aee1ad67fc",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:16aae9fa-d8f7-4e2c-a907-44aee1ad67fc.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 47068,
+            "displayName": "Paramount Theater",
+            "uri": "http://www.songkick.com/venues/47068-paramount-theater?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.62816,
+            "lng": -74.07662
+          },
+          "location": {
+            "city": "Staten Island, NY, US",
+            "lat": 40.62816,
+            "lng": -74.07662
+          }
+        },
+        {
+          "id": 39016008,
+          "displayName": "TR/ST at Knockdown Center (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39016008-trst-at-knockdown-center?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.004188,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73897373,
+              "displayName": "TR/ST",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 6137504,
+                "displayName": "TR/ST",
+                "uri": "http://www.songkick.com/artists/6137504-trst?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "b8e3d1ae-5983-4af1-b226-aa009b294111",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b8e3d1ae-5983-4af1-b226-aa009b294111.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1957449,
+            "displayName": "Knockdown Center",
+            "uri": "http://www.songkick.com/venues/1957449-knockdown-center?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.7154,
+            "lng": -73.91468
+          },
+          "location": {
+            "city": "Queens, NY, US",
+            "lat": 40.7154,
+            "lng": -73.91468
+          }
+        },
+        {
+          "id": 39018807,
+          "displayName": "Matt Nakoa, Allison Leah, and Robin Mitch Mitchell at Rockwood Music Hall Stage 3 (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39018807-matt-nakoa-at-rockwood-music-hall-stage-3?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000046,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:15:00-0500",
+            "time": "20:15:00"
+          },
+          "performance": [
+            {
+              "id": 73901990,
+              "displayName": "Matt Nakoa",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 5611773,
+                "displayName": "Matt Nakoa",
+                "uri": "http://www.songkick.com/artists/5611773-matt-nakoa?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "6fece69f-c9f2-472a-bbc7-022b7739fa3a",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:6fece69f-c9f2-472a-bbc7-022b7739fa3a.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73908259,
+              "displayName": "Allison Leah",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9965269,
+                "displayName": "Allison Leah",
+                "uri": "http://www.songkick.com/artists/9965269-allison-leah?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74073529,
+              "displayName": "Robin Mitch Mitchell",
+              "billing": "headline",
+              "billingIndex": 3,
+              "artist": {
+                "id": 8894284,
+                "displayName": "Robin Mitch Mitchell",
+                "uri": "http://www.songkick.com/artists/8894284-robin-mitch-mitchell?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 2399549,
+            "displayName": "Rockwood Music Hall Stage 3",
+            "uri": "http://www.songkick.com/venues/2399549-rockwood-music-hall-stage-3?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72207,
+            "lng": -73.98847
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72207,
+            "lng": -73.98847
+          }
+        },
+        {
+          "id": 39027167,
+          "displayName": "Alexander Geist and Your Mom's Agency at Unknown venue (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39027167-alexander-geist-at-unknown-venue?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000027,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 73915518,
+              "displayName": "Alexander Geist",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 6107949,
+                "displayName": "Alexander Geist",
+                "uri": "http://www.songkick.com/artists/6107949-alexander-geist?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 73915519,
+              "displayName": "Your Mom's Agency",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 6256924,
+                "displayName": "Your Mom's Agency",
+                "uri": "http://www.songkick.com/artists/6256924-your-moms-agency?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": null,
+            "displayName": "Unknown venue",
+            "uri": null,
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.71278,
+            "lng": -74.00594
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.71278,
+            "lng": -74.00594
+          }
+        },
+        {
+          "id": 39039750,
+          "displayName": "Billy Lockett at Rockwood Music Hall Stage 2 (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39039750-billy-lockett-at-rockwood-music-hall-stage-2?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.002121,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 74185844,
+              "displayName": "Billy Lockett",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 4235151,
+                "displayName": "Billy Lockett",
+                "uri": "http://www.songkick.com/artists/4235151-billy-lockett?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "f9da96bd-33cf-44c8-bb2e-938f00e0d28c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:f9da96bd-33cf-44c8-bb2e-938f00e0d28c.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1028946,
+            "displayName": "Rockwood Music Hall Stage 2",
+            "uri": "http://www.songkick.com/venues/1028946-rockwood-music-hall-stage-2?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72243,
+            "lng": -73.98869
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72243,
+            "lng": -73.98869
+          }
+        },
+        {
+          "id": 39041457,
+          "displayName": "Carl Palmer Band at The Space Theater (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39041457-carl-palmer-band-at-space-theater?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000208,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73938549,
+              "displayName": "Carl Palmer Band",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 244756,
+                "displayName": "Carl Palmer Band",
+                "uri": "http://www.songkick.com/artists/244756-carl-palmer-band?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "31eaffc7-244b-4f05-867b-9e9d574fa61e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:31eaffc7-244b-4f05-867b-9e9d574fa61e.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 3400914,
+            "displayName": "The Space Theater",
+            "uri": "http://www.songkick.com/venues/3400914-space-theater?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.75814,
+            "lng": -73.58748
+          },
+          "location": {
+            "city": "Westbury, NY, US",
+            "lat": 40.75814,
+            "lng": -73.58748
+          }
+        },
+        {
+          "id": 39041610,
+          "displayName": "Carl Palmer's Elp Legacy at The Space at Westbury (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39041610-carl-palmers-elp-legacy-at-space-at-westbury?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000174,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73938797,
+              "displayName": "Carl Palmer's Elp Legacy",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 6138609,
+                "displayName": "Carl Palmer's Elp Legacy",
+                "uri": "http://www.songkick.com/artists/6138609-carl-palmers-elp-legacy?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "7ea0ccde-997f-44ff-83e6-15cfc298728d",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7ea0ccde-997f-44ff-83e6-15cfc298728d.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 2391419,
+            "displayName": "The Space at Westbury",
+            "uri": "http://www.songkick.com/venues/2391419-space-at-westbury?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.75815,
+            "lng": -73.58748
+          },
+          "location": {
+            "city": "Westbury, NY, US",
+            "lat": 40.75815,
+            "lng": -73.58748
+          }
+        },
+        {
+          "id": 39048132,
+          "displayName": "The Birdland Big Band at Birdland Jazz Club (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39048132-birdland-big-band-at-birdland-jazz-club?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000029,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T17:30:00-0500",
+            "time": "17:30:00"
+          },
+          "performance": [
+            {
+              "id": 73949838,
+              "displayName": "The Birdland Big Band",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 3834006,
+                "displayName": "The Birdland Big Band",
+                "uri": "http://www.songkick.com/artists/3834006-birdland-big-band?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4211634,
+            "displayName": "Birdland Jazz Club",
+            "uri": "http://www.songkick.com/venues/4211634-birdland-jazz-club?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.75897,
+            "lng": -73.98962
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.75897,
+            "lng": -73.98962
+          }
+        },
+        {
+          "id": 39051389,
+          "displayName": "Chris Pepe at Still Partners (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39051389-chris-pepe-at-still-partners?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000001,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T18:30:00-0500",
+            "time": "18:30:00"
+          },
+          "performance": [
+            {
+              "id": 73955769,
+              "displayName": "Chris Pepe",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 9676534,
+                "displayName": "Chris Pepe",
+                "uri": "http://www.songkick.com/artists/9676534-chris-pepe?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 2936013,
+            "displayName": "Still Partners",
+            "uri": "http://www.songkick.com/venues/2936013-still-partners?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.84909,
+            "lng": -73.64234
+          },
+          "location": {
+            "city": "Sea Cliff, NY, US",
+            "lat": 40.84909,
+            "lng": -73.64234
+          }
+        },
+        {
+          "id": 39054493,
+          "displayName": "Firehouse at The Cutting Room (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39054493-firehouse-at-cutting-room?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.014822,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T22:00:00-0500",
+            "time": "22:00:00"
+          },
+          "performance": [
+            {
+              "id": 73960637,
+              "displayName": "Firehouse",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 269513,
+                "displayName": "Firehouse",
+                "uri": "http://www.songkick.com/artists/269513-firehouse?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "3ca0ef91-3297-4ef8-a99a-1c1a54dc8ac7",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3ca0ef91-3297-4ef8-a99a-1c1a54dc8ac7.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 31311,
+            "displayName": "The Cutting Room",
+            "uri": "http://www.songkick.com/venues/31311-cutting-room?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.74582,
+            "lng": -73.98297
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.74582,
+            "lng": -73.98297
+          }
+        },
+        {
+          "id": 39066598,
+          "displayName": "Joyce DiDonato, Riccardo Muti, and Chicago Symphony Orchestra at Carnegie Hall, Stern Auditorium / Perelman Stage (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39066598-joyce-didonato-at-carnegie-hall-stern-auditorium-perelman-stage?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.005317,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 73980612,
+              "displayName": "Joyce DiDonato",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 2233987,
+                "displayName": "Joyce DiDonato",
+                "uri": "http://www.songkick.com/artists/2233987-joyce-didonato?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "15e4f8a1-09f7-40c7-b9b1-93fa65b869ea",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:15e4f8a1-09f7-40c7-b9b1-93fa65b869ea.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73985253,
+              "displayName": "Riccardo Muti",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 432665,
+                "displayName": "Riccardo Muti",
+                "uri": "http://www.songkick.com/artists/432665-riccardo-muti?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "eb458ad6-7070-47af-ad92-968ea0b9dce2",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:eb458ad6-7070-47af-ad92-968ea0b9dce2.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73985254,
+              "displayName": "Chicago Symphony Orchestra",
+              "billing": "headline",
+              "billingIndex": 3,
+              "artist": {
+                "id": 87493,
+                "displayName": "Chicago Symphony Orchestra",
+                "uri": "http://www.songkick.com/artists/87493-chicago-symphony-orchestra?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "509c772e-1164-4457-8d09-0553cfa77d64",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:509c772e-1164-4457-8d09-0553cfa77d64.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 1034,
+            "displayName": "Carnegie Hall, Stern Auditorium / Perelman Stage",
+            "uri": "http://www.songkick.com/venues/1034-carnegie-hall-stern-auditorium-perelman-stage?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.76553,
+            "lng": -73.98005
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.76553,
+            "lng": -73.98005
+          }
+        },
+        {
+          "id": 39071680,
+          "displayName": "New Rock City with The So Lows at The Broadway (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39071680-new-rock-city-at-broadway?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000008,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73989415,
+              "displayName": "New Rock City",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 2881401,
+                "displayName": "New Rock City",
+                "uri": "http://www.songkick.com/artists/2881401-new-rock-city?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74177697,
+              "displayName": "The So Lows",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 10082525,
+                "displayName": "The So Lows",
+                "uri": "http://www.songkick.com/artists/10082525-so-lows?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4261424,
+            "displayName": "The Broadway",
+            "uri": "http://www.songkick.com/venues/4261424-broadway?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.69094,
+            "lng": -73.92489
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.69094,
+            "lng": -73.92489
+          }
+        },
+        {
+          "id": 39067549,
+          "displayName": "Black Mountain with Ryley Walker at The Bowery Ballroom (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39067549-black-mountain-at-bowery-ballroom?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.016613,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 73982412,
+              "displayName": "Black Mountain",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 528367,
+                "displayName": "Black Mountain",
+                "uri": "http://www.songkick.com/artists/528367-black-mountain?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "4898b9ad-f564-4ff1-9046-b1a16dfd5200",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:4898b9ad-f564-4ff1-9046-b1a16dfd5200.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73996337,
+              "displayName": "Ryley Walker",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 3723841,
+                "displayName": "Ryley Walker",
+                "uri": "http://www.songkick.com/artists/3723841-ryley-walker?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "795d12c3-099e-4195-8f40-6764472db494",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:795d12c3-099e-4195-8f40-6764472db494.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 316,
+            "displayName": "The Bowery Ballroom",
+            "uri": "http://www.songkick.com/venues/316-bowery-ballroom?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72036,
+            "lng": -73.99354
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72036,
+            "lng": -73.99354
+          }
+        },
+        {
+          "id": 39077445,
+          "displayName": "ATLiens with Ray Volpe and JEANIE (US) at Lost Circus, Avant Gardner (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39077445-atliens-at-lost-circus-avant-gardner?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.001787,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 73999276,
+              "displayName": "ATLiens",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 601766,
+                "displayName": "ATLiens",
+                "uri": "http://www.songkick.com/artists/601766-atliens?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "254a3d89-75eb-4df6-9bad-4a88beaeed93",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:254a3d89-75eb-4df6-9bad-4a88beaeed93.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 73999277,
+              "displayName": "Ray Volpe",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 7455719,
+                "displayName": "Ray Volpe",
+                "uri": "http://www.songkick.com/artists/7455719-ray-volpe?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "1f35049a-ca31-461b-abf1-2df4b5b69930",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:1f35049a-ca31-461b-abf1-2df4b5b69930.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74330985,
+              "displayName": "JEANIE (US)",
+              "billing": "support",
+              "billingIndex": 3,
+              "artist": {
+                "id": 9198314,
+                "displayName": "JEANIE (US)",
+                "uri": "http://www.songkick.com/artists/9198314-jeanie-us?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4094609,
+            "displayName": "Lost Circus, Avant Gardner",
+            "uri": "http://www.songkick.com/venues/4094609-lost-circus-avant-gardner?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.71074,
+            "lng": -73.92579
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.71074,
+            "lng": -73.92579
+          }
+        },
+        {
+          "id": 39084002,
+          "displayName": "New York Philharmonic and Bryce Dessner at David Geffen Hall, Lincoln Center (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39084002-new-york-philharmonic-at-david-geffen-hall-lincoln-center?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.008147,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 74010764,
+              "displayName": "New York Philharmonic",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 523856,
+                "displayName": "New York Philharmonic",
+                "uri": "http://www.songkick.com/artists/523856-new-york-philharmonic?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "7cdb68bc-c4f1-4a92-9bd2-739641c5eff0",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:7cdb68bc-c4f1-4a92-9bd2-739641c5eff0.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74010765,
+              "displayName": "Bryce Dessner",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 2750056,
+                "displayName": "Bryce Dessner",
+                "uri": "http://www.songkick.com/artists/2750056-bryce-dessner?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "20336142-85de-4e11-a1fd-a6c815b4e583",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:20336142-85de-4e11-a1fd-a6c815b4e583.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 6204,
+            "displayName": "David Geffen Hall, Lincoln Center",
+            "uri": "http://www.songkick.com/venues/6204-david-geffen-hall-lincoln-center?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.7723,
+            "lng": -73.98295
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.7723,
+            "lng": -73.98295
+          }
+        },
+        {
+          "id": 39085212,
+          "displayName": "Katherine Young with Ryoko Akama at Issue Project Room (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39085212-katherine-young-at-issue-project-room?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000005,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 74012772,
+              "displayName": "Katherine Young",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 1667337,
+                "displayName": "Katherine Young",
+                "uri": "http://www.songkick.com/artists/1667337-katherine-young?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            },
+            {
+              "id": 74012773,
+              "displayName": "Ryoko Akama",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 6017909,
+                "displayName": "Ryoko Akama",
+                "uri": "http://www.songkick.com/artists/6017909-ryoko-akama?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 31318,
+            "displayName": "Issue Project Room",
+            "uri": "http://www.songkick.com/venues/31318-issue-project-room?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.6908,
+            "lng": -73.98956
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.6908,
+            "lng": -73.98956
+          }
+        },
+        {
+          "id": 39092435,
+          "displayName": "Pokey LaFarge with Jake La Botz at The Bell House (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39092435-pokey-lafarge-at-bell-house?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.004983,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:30:00-0500",
+            "time": "20:30:00"
+          },
+          "performance": [
+            {
+              "id": 74025279,
+              "displayName": "Pokey LaFarge",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 271625,
+                "displayName": "Pokey LaFarge",
+                "uri": "http://www.songkick.com/artists/271625-pokey-lafarge?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "c76dd1b2-b35f-48c6-89e3-09dadb67284c",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c76dd1b2-b35f-48c6-89e3-09dadb67284c.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74079281,
+              "displayName": "Jake La Botz",
+              "billing": "support",
+              "billingIndex": 2,
+              "artist": {
+                "id": 515119,
+                "displayName": "Jake La Botz",
+                "uri": "http://www.songkick.com/artists/515119-jake-la-botz?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "c1396b82-3fde-4b8c-8534-266e4a4b5f3f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:c1396b82-3fde-4b8c-8534-266e4a4b5f3f.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 33018,
+            "displayName": "The Bell House",
+            "uri": "http://www.songkick.com/venues/33018-bell-house?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.67352,
+            "lng": -73.99176
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.67352,
+            "lng": -73.99176
+          }
+        },
+        {
+          "id": 39093617,
+          "displayName": "Ryan Caraveo and Khary at Baby's All Right (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39093617-ryan-caraveo-at-babys-all-right?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.00674,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T18:30:00-0500",
+            "time": "18:30:00"
+          },
+          "performance": [
+            {
+              "id": 74027277,
+              "displayName": "Ryan Caraveo",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 8204888,
+                "displayName": "Ryan Caraveo",
+                "uri": "http://www.songkick.com/artists/8204888-ryan-caraveo?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "b99fdd7c-65c7-461e-a485-f31367f286f9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b99fdd7c-65c7-461e-a485-f31367f286f9.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74284162,
+              "displayName": "Khary",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 8876204,
+                "displayName": "Khary",
+                "uri": "http://www.songkick.com/artists/8876204-khary?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "8261afea-acbf-4952-a968-fdec4bfcc631",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:8261afea-acbf-4952-a968-fdec4bfcc631.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 2445014,
+            "displayName": "Baby's All Right",
+            "uri": "http://www.songkick.com/venues/2445014-babys-all-right?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.70999,
+            "lng": -73.96347
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.70999,
+            "lng": -73.96347
+          }
+        },
+        {
+          "id": 39095661,
+          "displayName": "Amy Rivard at Tavern On The Green (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39095661-amy-rivard-at-tavern-on-the-green?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000011,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 74030796,
+              "displayName": "Amy Rivard",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 8666139,
+                "displayName": "Amy Rivard",
+                "uri": "http://www.songkick.com/artists/8666139-amy-rivard?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 347491,
+            "displayName": "Tavern On The Green",
+            "uri": "http://www.songkick.com/venues/347491-tavern-on-the-green?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.77352,
+            "lng": -73.97884
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.77352,
+            "lng": -73.97884
+          }
+        },
+        {
+          "id": 39098065,
+          "displayName": "Anna Tivel and Maya de Vitry at Jalopy Theatre (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39098065-anna-tivel-at-jalopy-theatre?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000437,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 74034579,
+              "displayName": "Anna Tivel",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 5201748,
+                "displayName": "Anna Tivel",
+                "uri": "http://www.songkick.com/artists/5201748-anna-tivel?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "b3d440ac-3bb9-46bf-adc1-4b46d2eb0d4e",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:b3d440ac-3bb9-46bf-adc1-4b46d2eb0d4e.json"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 74034580,
+              "displayName": "Maya de Vitry",
+              "billing": "headline",
+              "billingIndex": 2,
+              "artist": {
+                "id": 9404214,
+                "displayName": "Maya de Vitry",
+                "uri": "http://www.songkick.com/artists/9404214-maya-de-vitry?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 31304,
+            "displayName": "Jalopy Theatre",
+            "uri": "http://www.songkick.com/venues/31304-jalopy-theatre?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.68131,
+            "lng": -74.0042
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.68131,
+            "lng": -74.0042
+          }
+        },
+        {
+          "id": 39100577,
+          "displayName": "B L U E O X at Bowery Electric (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39100577-b-l-u-e-o-x-at-bowery-electric?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:00:00-0500",
+            "time": "19:00:00"
+          },
+          "performance": [
+            {
+              "id": 74038834,
+              "displayName": "B L U E O X",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 10059846,
+                "displayName": "B L U E O X",
+                "uri": "http://www.songkick.com/artists/10059846-b-l-u-e-o-x?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 34628,
+            "displayName": "Bowery Electric",
+            "uri": "http://www.songkick.com/venues/34628-bowery-electric?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.72575,
+            "lng": -73.9918
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.72575,
+            "lng": -73.9918
+          }
+        },
+        {
+          "id": 39103954,
+          "displayName": "David Byrne at Hudson Theatre (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39103954-david-byrne-at-hudson-theatre?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.037663,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": null,
+            "time": null
+          },
+          "performance": [
+            {
+              "id": 74044558,
+              "displayName": "David Byrne",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 275672,
+                "displayName": "David Byrne",
+                "uri": "http://www.songkick.com/artists/275672-david-byrne?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "d4659efb-b8eb-4f03-95e9-f69ce35967a9",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:d4659efb-b8eb-4f03-95e9-f69ce35967a9.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 106163,
+            "displayName": "Hudson Theatre",
+            "uri": "http://www.songkick.com/venues/106163-hudson-theatre?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.75694,
+            "lng": -73.98487
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.75694,
+            "lng": -73.98487
+          }
+        },
+        {
+          "id": 39109378,
+          "displayName": "Close Talker at The Sultan Room (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39109378-close-talker-at-sultan-room?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000582,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T20:00:00-0500",
+            "time": "20:00:00"
+          },
+          "performance": [
+            {
+              "id": 74053637,
+              "displayName": "Close Talker",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 5344883,
+                "displayName": "Close Talker",
+                "uri": "http://www.songkick.com/artists/5344883-close-talker?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "3422f81a-7bec-40f8-9a5d-f01dea762f5f",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:3422f81a-7bec-40f8-9a5d-f01dea762f5f.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 4343448,
+            "displayName": "The Sultan Room",
+            "uri": "http://www.songkick.com/venues/4343448-sultan-room?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.70559,
+            "lng": -73.92234
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.70559,
+            "lng": -73.92234
+          }
+        },
+        {
+          "id": 39111530,
+          "displayName": "Katastro at Knitting Factory - Brooklyn (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39111530-katastro-at-knitting-factory-brooklyn?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.002516,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 74057200,
+              "displayName": "Katastro",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 936395,
+                "displayName": "Katastro",
+                "uri": "http://www.songkick.com/artists/936395-katastro?utm_source=59227&utm_medium=partner",
+                "identifier": [
+                  {
+                    "mbid": "18a3b8bd-c7e9-42a9-8691-478ebde596b5",
+                    "href": "http://api.songkick.com/api/3.0/artists/mbid:18a3b8bd-c7e9-42a9-8691-478ebde596b5.json"
+                  }
+                ]
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 664591,
+            "displayName": "Knitting Factory - Brooklyn",
+            "uri": "http://www.songkick.com/venues/664591-knitting-factory-brooklyn?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.7143,
+            "lng": -73.95587
+          },
+          "location": {
+            "city": "Brooklyn, NY, US",
+            "lat": 40.7143,
+            "lng": -73.95587
+          }
+        },
+        {
+          "id": 39115141,
+          "displayName": "Joao at Jazz Standard (November 15, 2019)",
+          "type": "Concert",
+          "uri": "http://www.songkick.com/concerts/39115141-joao-at-jazz-standard?utm_source=59227&utm_medium=partner",
+          "status": "ok",
+          "popularity": 0.000046,
+          "start": {
+            "date": "2019-11-15",
+            "datetime": "2019-11-15T19:30:00-0500",
+            "time": "19:30:00"
+          },
+          "performance": [
+            {
+              "id": 74063343,
+              "displayName": "Joao",
+              "billing": "headline",
+              "billingIndex": 1,
+              "artist": {
+                "id": 534338,
+                "displayName": "Joao",
+                "uri": "http://www.songkick.com/artists/534338-joao?utm_source=59227&utm_medium=partner",
+                "identifier": []
+              }
+            }
+          ],
+          "ageRestriction": null,
+          "flaggedAsEnded": false,
+          "venue": {
+            "id": 217,
+            "displayName": "Jazz Standard",
+            "uri": "http://www.songkick.com/venues/217-jazz-standard?utm_source=59227&utm_medium=partner",
+            "metroArea": {
+              "displayName": "New York (NYC)",
+              "country": {
+                "displayName": "US"
+              },
+              "state": {
+                "displayName": "NY"
+              },
+              "id": 7644,
+              "uri": "http://www.songkick.com/metro_areas/7644-us-new-york-nyc?utm_source=59227&utm_medium=partner"
+            },
+            "lat": 40.74236,
+            "lng": -73.98373
+          },
+          "location": {
+            "city": "New York (NYC), NY, US",
+            "lat": 40.74236,
+            "lng": -73.98373
+          }
+        }
+      ]
+    },
+    "perPage": 50,
+    "page": 1,
+    "totalEntries": 3924
+  }
+}
