@@ -6,9 +6,8 @@ Our primary data sources came through Spotify, songkick, lastFM, and eventful. W
 
 # Instructions for running eventful script:
 
-•	The script available in rock_eventsListAPI.py loops through all events throught the eventful API. The various parameters can be changed/updated to produce desired results. This code produces a json file that is then used to create a csv. The code is commented to explain.
+•	The script available in rock_eventsListAPI.py loops through all events throught the eventful API. Various parameters such as date and query can be changed/updated to produce desired results. This code produces a json file that is then used to create CSV files using script rockEvents_allNov_csv.py which can also have various parameters (row 4). The code is commented to explain. For reference all CSVs that we produced with this code are also available in this repository.
 Eventful API scripts need to be run in python 2.7.
 
-•	The script in rockEvents_allNov_csv.py is used to produce the various csv files used for mapping. Json files can be swapped out in row 4 to produce various mappings.
 
-•	For reference all CSVs that we produced with this code are also available in this repository. 
+ 
